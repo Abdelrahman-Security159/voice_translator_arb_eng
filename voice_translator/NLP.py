@@ -1,3 +1,8 @@
+"""
+The run is from this class
+License : abdelrahman-security159 (https://github.com/Abdelrahman-Security159)
+
+"""
 import speech_recognition as sp
 import pyttsx3 as px3
 import translate_process as tp
